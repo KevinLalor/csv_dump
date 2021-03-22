@@ -3,7 +3,7 @@ Overall_rank,Continent,Country,Score,GDP_per_capita,Social_support,Healthy_life_
 2,Europe,Denmark,7.600,1.383,1.573,0.996,0.592,0.252,0.410
 3,Europe,Norway,7.554,1.488,1.582,1.028,0.603,0.271,0.341
 4,Europe,Iceland,7.494,1.380,1.624,1.026,0.591,0.354,0.118
-5,,Europe,Netherlands,7.488,1.396,1.522,0.999,0.557,0.322,0.298
+5,Europe,Netherlands,7.488,1.396,1.522,0.999,0.557,0.322,0.298
 6,Europe,Switzerland,7.480,1.452,1.526,1.052,0.572,0.263,0.343
 7,Europe,Sweden,7.343,1.387,1.487,1.009,0.574,0.267,0.373
 8,Oceania,New Zealand,7.307,1.303,1.557,1.026,0.585,0.330,0.380
